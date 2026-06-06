@@ -38,12 +38,13 @@ Sensitive? → Ask Human → Approve? → Execute
 2. Get free API key from [console.groq.com](https://console.groq.com)
 3. Run all cells
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/drive/1KVF4o7C2P-E0ErKOl5fa_ebeH4bgOESA?usp=sharing)
 
 ### Run Locally
 
 ```bash
-git clone https://github.com/anshchordiya/sales-agent-langgraph.git
+git clone https://github.com/anshchordiya2002/sales-agent-langgraph.git
 cd sales-agent-langgraph
 pip install -r requirements.txt
 export GROQ_API_KEY="your_key_here"
